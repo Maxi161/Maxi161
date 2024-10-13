@@ -29,7 +29,7 @@ Soy **Desarrollador Web Full Stack**, apasionado por construir aplicaciones web 
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-F28E1C?style=flat-square&logo=cloudinary)
 
 ### 📫 Contacto
-- LinkedIn: [Olea Gonzalez Angel Maximo](www.linkedin.com/in/angel-maximo-olea-gonzález-631943307)
+- LinkedIn: [Olea Gonzalez Angel Maximo](https://www.linkedin.com/in/angel-maximo-olea-gonzález-631943307)
 - Email: [Olea Maximo](mailto:olea.maximo17@gmail.com)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Maxi161&show_icons=true&theme=radical)
